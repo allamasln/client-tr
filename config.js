@@ -9,4 +9,5 @@ export default {
 		defaultCoordinates: [53.34660547445545, -6.266264421794921], // [lat, lng]
 		defaultZoom: 13,
 	},
+	apiURL: 'https://transportes-irlanda.onrender.com/api',
 }
